@@ -30,5 +30,21 @@ Kumpulan dari Soal-Soal UTS dan UAS Jurusan Teknik Industri Universitas Islam In
 
 {% file src="../.gitbook/assets/kpb.pdf" caption="Kalkulus Peubah Banyak" %}
 
+{% file src="../.gitbook/assets/manajemen-keuangan.pdf" caption="Manajemen Keuangan" %}
+
+{% file src="../.gitbook/assets/manajemen-logistik.pdf" caption="Manajemen Logistik" %}
+
+{% file src="../.gitbook/assets/manajemen-strategi.pdf" caption="Manajemen Strategi" %}
+
+{% file src="../.gitbook/assets/msdm.pdf" caption="Manajemen Sumber Daya Manusia" %}
+
+{% file src="../.gitbook/assets/material-teknik.pdf" caption="Material Teknik" %}
+
+{% file src="../.gitbook/assets/matriks-dan-ruang-vektor.pdf" caption="Matriks Dan Ruang Vektor" %}
+
+{% file src="../.gitbook/assets/mekanika-teknik.pdf" caption="Mekanika Teknik" %}
+
+{% file src="../.gitbook/assets/model-stokastik.pdf" caption="Model Stokastik" %}
+
 
 
