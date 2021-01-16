@@ -2,7 +2,7 @@
 
 [Origin Site](https://ulilalbabti.wordpress.com/2014/02/10/kumpulan-materi-kuliah-teknik-industri/)
 
-[AlPr](https://www.dropbox.com/s/1wmldc5ipngklzh/Materi%20AlPro.rar)o
+[AlPr](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Materi%20AlPro.rar?alt=media&token=b1e12b8a-bb45-4860-9b46-da36b967b7e8)o
 
 [Analisis Pasar](https://www.dropbox.com/s/f7gex4ipzrh5y5z/Analisis%20Pasar.rar)
 
