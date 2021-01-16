@@ -46,5 +46,45 @@ Kumpulan dari Soal-Soal UTS dan UAS Jurusan Teknik Industri Universitas Islam In
 
 {% file src="../.gitbook/assets/model-stokastik.pdf" caption="Model Stokastik" %}
 
+{% file src="../.gitbook/assets/optimasi.pdf" caption="Optimasi" %}
+
+{% file src="../.gitbook/assets/pemodelan-sistem.pdf" caption="Pemodelan Sistem" %}
+
+{% file src="../.gitbook/assets/pengantar-ilmu-ekonomi.pdf" caption="Pengantar Ilmu Ekonomi" %}
+
+{% file src="../.gitbook/assets/pengendalian-dan-penjaminan-mutu.pdf" caption="Pengendalian Dan Penjaminan Mutu" %}
+
+{% file src="../.gitbook/assets/pengetahuan-lingkungan.pdf" caption="Pengetahuan Lingkungan" %}
+
+{% file src="../.gitbook/assets/pomb.pdf" caption="Perancangan Organisasi & Manajemen Bisnis" %}
+
+{% file src="../.gitbook/assets/pske.pdf" caption="Perancangan Sistem Kerja & Ergonomi" %}
+
+{% file src="../.gitbook/assets/ptlf.pdf" caption="Perancangan Tata Letak Fasilitas" %}
+
+{% file src="../.gitbook/assets/perencanaan-dan-pengendalian-produksi.pdf" caption="Perencanaan Dan Pengendalian Produksi" %}
+
+{% file src="../.gitbook/assets/ppi.pdf" caption="PPI" %}
+
+{% file src="../.gitbook/assets/proses-manufaktur.pdf" caption="Proses Manufaktur" %}
+
+{% file src="../.gitbook/assets/psikologi-industri.pdf" caption="Psikologi Industri" %}
+
+{% file src="../.gitbook/assets/sistem-cerdas.pdf" caption="Sistem Cerdas" %}
+
+{% file src="../.gitbook/assets/sistem-informasi-manajemen.pdf" caption="Sistem Informasi Manajemen" %}
+
+{% file src="../.gitbook/assets/sistem-informasi-manajemen-2012-2013.pdf" caption="SIM 2012-2013" %}
+
+
+
+
+
+
+
+
+
+
+
 
 
