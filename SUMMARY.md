@@ -117,4 +117,5 @@
 ## Kumpulan Soal Teknik Industri
 
 * [Soal UTS dan UAS TI UII](kumpulan-soal-teknik-industri/soal-uts-dan-uas-ti-uii.md)
+* [Kumpulan Materi Kuliah Teknik Industri](kumpulan-soal-teknik-industri/kumpulan-materi-kuliah-teknik-industri.md)
 
