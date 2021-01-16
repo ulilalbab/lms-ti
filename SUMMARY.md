@@ -52,7 +52,7 @@
 
 ## Psikologi Industri
 
-* [Untitled](psikologi-industri/untitled.md)
+* [Materi](psikologi-industri/untitled.md)
 
 ## Proses Manufaktur
 
