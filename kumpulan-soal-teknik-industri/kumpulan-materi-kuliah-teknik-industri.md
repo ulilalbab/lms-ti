@@ -4,77 +4,65 @@
 
 [AlPr](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Materi%20AlPro.rar?alt=media&token=b1e12b8a-bb45-4860-9b46-da36b967b7e8)o
 
-[Analisis Pasar](https://www.dropbox.com/s/f7gex4ipzrh5y5z/Analisis%20Pasar.rar)
+[Analisis Pasar](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Analisis%20Pasar.rar?alt=media&token=f4b7bdb7-cb16-4f16-a188-2a1a7ab53bed)
 
-[Analisis Dan Estimasi Biaya](https://www.dropbox.com/s/0eff9dv6ojrs1y0/Analisis%20Estimasi%20Biaya.rar)
+[Analisis Dan Estimasi Biaya](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Analisis%20Estimasi%20Biaya.rar?alt=media&token=b9b1633d-175b-42bc-9a4c-c85a55cf00d2)
 
-[DPTI](http://inqisaria.files.wordpress.com/2014/02/dasar-perancangan-ti-part-iii.pptx)
+[DPTI](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Dasar%20perancangan%20Ti%20part%20IV.pptx?alt=media&token=16a7043e-e167-44d7-8c80-7a675d1d37dc)
 
-[DPTI Part IV](http://inqisaria.files.wordpress.com/2014/02/dasar-perancangan-ti-part-iv1.pptx)
+[DPTP](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/DPTP.rar?alt=media&token=cac9abad-844d-4a0b-9d5a-79bcf6e736ac)
 
-[DPTP](https://www.dropbox.com/s/bmvi4z7o7x1z72q/DPTP.rar)
+[Elektronika Industri](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Elektronika%20Industri.rar?alt=media&token=b0d74ce0-a843-4a63-a737-89ea9e5e4c3c)
 
-[Elektronika Industri](https://www.dropbox.com/s/8k321kdkoz1xrv1/Elektronika%20Industri.rar)
+[Ekonomi Teknik](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Ekonomi%20Teknik.rar?alt=media&token=259da1e5-48f5-4c45-938d-07aa36d380fe)
 
-[Ekonomi Teknik](https://www.dropbox.com/s/9vyqwsi1m02ivhw/Ekonomi%20Teknik.rar)
+[Fisika](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Fisika%20dan%20Kuis.zip?alt=media&token=b98b2d1d-fff8-4daa-a94f-4f6bbf510d2e)
 
-[Fisiologi Dan Pengukuran Kerja](https://www.dropbox.com/s/xjiji2qz1qiv3xn/Fisiologi%20Dan%20Pengukuran%20Kerja.rar)
+[Fisiologi Dan Pengukuran Kerja](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Fisiologi%20Dan%20Pengukuran%20Kerja.rar?alt=media&token=5a060aa7-a537-4d2e-8506-27a37215360c)
 
-[Gambar Teknik](http://inqisaria.files.wordpress.com/2014/02/bahan-ajar-dasar-gambar-teknik-2.pptx)
+[Intelligent Manufacture System](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Intelegent%20Manufacturing%20System.rar?alt=media&token=da425e9f-0980-4369-91bc-999ad050f08b)
 
-[Intelligent Manufacture System](https://www.dropbox.com/s/z3f5cbg5tg5mtk6/Intelegent%20Manufacturing%20System.rar)
+[Kalkulus Peubah Banyak](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Kalkulus%20Peubah%20Banyak.rar?alt=media&token=597c2c77-74cf-4c6c-94c7-c6ffc5d469a2)
 
-[Kuis Fisika I](http://inqisaria.files.wordpress.com/2014/02/kuis_fisika_1.pptx)
+[Model Stokastik](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Model%20Stokastik.rar?alt=media&token=6a02a7e4-887b-4a64-9da4-1bce40279279)
 
-[Kuliah Fisika 1](http://inqisaria.files.wordpress.com/2014/02/kuliah-fisika_1.pptx)
+[Mekanika Teknik](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Mekanika%20Teknik.rar?alt=media&token=01b933d4-29db-4426-958b-9259b9600d2a)
 
-[Kuliah Fisika 2](http://inqisaria.files.wordpress.com/2014/02/kuliah-fisika_2.pptx)
+[Matriks Ruang & Vektor](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Matriks%20Ruang%20_%20Vektor.rar?alt=media&token=85b5a8ec-a641-4ebe-9461-b4c5146cbc84)
 
-[Kuliah Fisika 3](http://inqisaria.files.wordpress.com/2014/02/kuliah-fisika_3.pptx)
+[Material Teknik](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Material%20Teknik.rar?alt=media&token=211cd847-499b-4dbf-bfdb-b39dbfab75e0)
 
-[Kalkulus Peubah Banyak](https://www.dropbox.com/s/ykhb4x5c4m9u5xd/Kalkulus%20Peubah%20Banyak.rar)
+[Manajemen Resiko](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Manajemen%20Resiko.zip?alt=media&token=c05d23fc-1b2d-4421-89f8-3379acd25d09)
 
-[Metodologi Hacking](http://inqisaria.files.wordpress.com/2014/02/metodelogui-hacking.ppt)
+[Manajemen Sumber Daya Manusia](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Manajemen%20Sumber%20Daya%20Manusia.rar?alt=media&token=e7abc838-7284-4511-a466-13f64c4a6544)
 
-[Model Stokastik](https://www.dropbox.com/s/gpvoa3iko0m810i/Model%20Stokastik.rar)
+[Optimasi](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Optimasi.rar?alt=media&token=04f52686-57a9-4dde-bb30-f7806de83b86)
 
-[Mekanika Teknik](https://www.dropbox.com/s/41gxchjg9hlszf0/Mekanika%20Teknik.rar)
+[Perencanaan & Pengendalian Produksi](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Perencanaan%20dan%20Pengendalian%20Produksi.rar?alt=media&token=57a0a31b-32a2-49a7-9530-e0d65ea20766)
 
-[Matriks Ruang & Vektor](https://www.dropbox.com/s/4r4lox3y3fnhls2/Matriks%20Ruang%20%26%20Vektor.rar)
+[Perancangan Tata Letak Fasilitas](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Perancangan%20Tata%20Letak%20Fasilitas.rar?alt=media&token=bb9e4eb6-eb1a-4e54-bcdb-1a8adc99e472)
 
-[Material Teknik](https://www.dropbox.com/s/22s4v534xs3xudd/Material%20Teknik.rar)
+[Perancangan Organisasi Manajemen Bisnis](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Perancangan%20Organisasi%20Manajemen%20Bisnis.rar?alt=media&token=e3bb4475-1e7b-4b41-9c3b-6314fdd9f589)
 
-[Manajemen Resiko](https://www.dropbox.com/s/98v5q9z5e4hr3d4/Manajemen%20Resiko.zip)
+[Pengendalian Kualitas & Penjaminan Mutu](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Pengendalian%20Kualitas%20dan%20Penjaminan%20Mutu.rar?alt=media&token=78c6b02b-1218-4a27-8326-bff2e3c66f41)
 
-[Manajemen Sumber Daya Manusia](https://www.dropbox.com/s/9qjgwhuxy3sufve/Manajemen%20Sumber%20Daya%20Manusia.rar)
+[Pengantar Teknik Industri](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Pengantar%20Teknik%20Industri.rar?alt=media&token=122959e2-32bb-43b3-b6d4-ac2442fbefce)
 
-[Optimasi](https://www.dropbox.com/s/r972i3zwhr17w1u/Optimasi.rar)
+[Pengantar Ilmu Ekonomi](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Pengantar%20Ilmu%20Ekonomi.rar?alt=media&token=37e0bba5-8391-4ec7-9ec7-c04d80877fad)
 
-[Perencanaan & Pengendalian Produksi](https://www.dropbox.com/s/hwzfj6wwtygxetz/Perencanaan%20dan%20Pengendalian%20Produksi.rar)
+[Psikologi Industri](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Psikologi%20Industri.rar?alt=media&token=4dcc443e-d640-463b-b73e-9bb1e772d59f)
 
-[Perancangan Tata Letak Fasilitas](https://www.dropbox.com/s/2xr0zzpbsawmq0c/Perancangan%20Tata%20Letak%20Fasilitas.rar)
+[Pemodelan Sistem](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Pemodelan%20Sistem.rar?alt=media&token=80a3871d-dc0a-48a8-8ed4-1ff8f9445d1d)
 
-[Perancangan Organisasi Manajemen Bisnis](https://www.dropbox.com/s/mb8fg52yx2rhlx7/Perancangan%20Organisasi%20Manajemen%20Bisnis.rar)
+[Sistem Manusia Mesin](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Sistem%20Manusia%20Mesin.zip?alt=media&token=fc6de430-382e-48ec-b10f-dcb3a598c655)
 
-[Pengendalian Kualitas & Penjaminan Mutu](https://www.dropbox.com/s/ml1r29e0w84668l/Pengendalian%20Kualitas%20dan%20Penjaminan%20Mutu.rar)
+[Sistem Produksi](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Sistem%20Produksi.rar?alt=media&token=1e3423d6-726d-4b6b-82f8-d46dc163f408)
 
-[Pengantar Teknik Industri](https://www.dropbox.com/s/53c78huiy56q1sv/Pengantar%20Teknik%20Industri.rar)
+[Rekayasa Kualitas](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Rekayasa%20Kualitas.rar?alt=media&token=e64b5f68-0f98-4066-a547-e0c280d3e23a)
 
-[Pengantar Ilmu Ekonomi](https://www.dropbox.com/s/uydf10qgq1wxx8v/Pengantar%20Ilmu%20Ekonomi.rar)
+[Sistem Informasi Manajemen](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Sistem%20Informasi%20Manajemen.rar?alt=media&token=0f9181ac-42b9-4e35-827d-e737651e6b14)
 
-[Psikologi Industri](https://www.dropbox.com/s/8masxnyhqb21y7q/Psikologi%20Industri.rar)
+[Sistem Cerdas](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Sistem%20Cerdas.rar?alt=media&token=c668d3de-f350-4f92-9bb7-00307371a09e)
 
-[Pemodelan Sistem](https://www.dropbox.com/s/fxwmxnnqeazy729/Pemodelan%20Sistem.rar)
-
-[Sistem Manusia Mesin](https://www.dropbox.com/s/g9j18v9ze5ym2wq/Sistem%20Manusia%20Mesin.zip)
-
-[Sistem Produksi](https://www.dropbox.com/s/9ksb0onpj183pch/Sistem%20Produksi.rar)
-
-[Rekayasa Kualitas](https://www.dropbox.com/s/w8y7e0fgm7i26nb/Rekayasa%20Kualitas.rar)
-
-[Sistem Informasi Manajemen](https://www.dropbox.com/s/ec28m6fpcntb1ax/Sistem%20Informasi%20Manajemen.rar)
-
-[Sistem Cerdas](https://www.dropbox.com/s/9fjmrd7sc4bgnaw/Sistem%20Cerdas.rar)
-
-[TTKI \(Tata Tulis & Komunikasi Ilmiah\)](https://www.dropbox.com/s/lo2um5qffrr2vil/Tata%20Tulis%20Dan%20Komunikasi%20Ilmiah.rar)
+[TTKI \(Tata Tulis & Komunikasi Ilmiah\)](https://firebasestorage.googleapis.com/v0/b/lms-teknik-industri.appspot.com/o/Tata%20Tulis%20Dan%20Komunikasi%20Ilmiah.rar?alt=media&token=a06aa295-9ef2-4051-a040-d5f1a49060df)
 
