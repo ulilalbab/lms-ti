@@ -76,15 +76,17 @@ Kumpulan dari Soal-Soal UTS dan UAS Jurusan Teknik Industri Universitas Islam In
 
 {% file src="../.gitbook/assets/sistem-informasi-manajemen-2012-2013.pdf" caption="SIM 2012-2013" %}
 
+{% file src="../.gitbook/assets/soal-uts-semester-3-gasal.pdf" caption="SOAL UTS 2012" %}
 
+{% file src="../.gitbook/assets/soal-uts-semester-3-gasal-2012-2013.pdf" caption="Soal UTS Semester 3 Gasal 2012-2013" %}
 
+{% file src="../.gitbook/assets/uts-dpti.pdf" caption="Soal Uts Desain Perancangan Teknik Industri" %}
 
+{% file src="../.gitbook/assets/sistem-informasi-manajemen-2011-2012.pdf" caption="SOAL SIM 2011-2012" %}
 
+{% file src="../.gitbook/assets/statistika-industri.pdf" caption="Statistika Industri" %}
 
+{% file src="../.gitbook/assets/teori-probabilitas.pdf" caption="Teori Probabilitas" %}
 
-
-
-
-
-
+{% file src="../.gitbook/assets/ttki.pdf" caption="TTKI" %}
 
