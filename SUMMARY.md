@@ -114,3 +114,7 @@
 
 * [Untitled](perancangan-tata-letak-pabrik/untitled.md)
 
+## Kumpulan Soal Teknik Industri
+
+* [Soal UTS dan UAS TI UII](kumpulan-soal-teknik-industri/soal-uts-dan-uas-ti-uii.md)
+
